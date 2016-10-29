@@ -1,5 +1,5 @@
 ##Description
-Le plugin Linkplex permet de faire un lien dans la toolbar de rutorrent pour Plex.
+Le plugin Linkemby permet de faire un lien dans la toolbar de rutorrent pour Emby.
 
 
-Auteur : Magicalex (reprise de [Linkcakebox](https://github.com/Cakebox/linkcakebox/) de Magicalex)
+Auteur : Magicalex (reprise de Linkplex de Magicalex)
